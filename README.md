@@ -9,6 +9,7 @@ This is a next-generation kernel made for human immortality and  biomechatronics
 SUPPORTED CPU  ARCHITECTURE                                  
 ===========================
 Currently only supported architecture it will updated in future
+
  *AMD64                        
  *Arm64                       
  *X86_64                       
