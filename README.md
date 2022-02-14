@@ -1,4 +1,4 @@
-# Project-Neurox V 0.001
+# Project-Neurox v0.0.0.1
 A next  generation  open source kernel for biomechatronics
 
                                              ===============
