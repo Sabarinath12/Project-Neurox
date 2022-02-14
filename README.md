@@ -9,7 +9,7 @@ A next-generation kernel made for human immortality and  biomechatronics The  ke
 ====================================================================================================================================================================
 SUPPORTED CPU  ARCHITECTURE                                  
 ===========================
-Currently only supported architecture it will updated in future
+Currently only supported architecture it will be updated in future
 
  *AMD64                        
  *Arm64                       
